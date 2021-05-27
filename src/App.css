@@ -1,0 +1,36 @@
+
+.li {
+  float: left;
+  margin: 10px; 
+}
+
+.logo {
+  border-color: purple;
+  position: absolute;
+  top: 2%;
+  left: 5%;
+}
+
+.home {
+  border: 1px solid rgb(18, 140, 177);
+  text-align: center;
+}
+
+.services {
+border:1px solid rgb(146, 34, 146);
+text-align: center;
+height: 500px;
+width: auto;
+}
+
+.about-us {
+  border: 1px solid rgb(0, 132, 255);
+  text-align: center;
+  width: auto;
+}
+
+.contact {
+  border: 1px solid rgb(0, 132, 255);
+  text-align: center;
+  width: auto;
+}
